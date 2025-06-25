@@ -1,0 +1,24 @@
+name: khelmandal  # Required: Your app's name (lowercase_with_underscores)
+description: A sports event management app for Nepal.
+version: 1.0.0+1  # Version format: major.minor.patch+build
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.16.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.14.0
+  firebase_auth: ^5.6.0
+  cloud_firestore: ^5.6.9
+  firebase_storage: ^12.4.7
+  firebase_messaging: ^15.2.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

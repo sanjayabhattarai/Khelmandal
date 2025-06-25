@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151975011891",
+    "project_id": "khelmandal",
+    "storage_bucket": "khelmandal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151975011891:android:3ef2158c9ebd3c8ca22546",
+        "android_client_info": {
+          "package_name": "com.khelmandal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNn-cMBDbayIVN1GSoJ7q7r8AW0wFaaU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
